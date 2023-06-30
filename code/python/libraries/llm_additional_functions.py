@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 
 #Use the following pieces of context to answer the question at the end. 
 #If you don't know the answer, just say that you don't know, don't try to make up an answer.
-def format_prompt(question, context) :
+def format_prompt(header, question, context) :
     text = f"""
-### Assistant: uso el siguiente contexto para responder la pregunta. Si no se la respuesta, solo diré que no la se, no trataré de inventar una respuesta.
+{header}
 Contexto:
 {context}
 ### Human: {question}
