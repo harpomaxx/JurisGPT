@@ -1,3 +1,3 @@
-# JurisGPT: an AI-powered Retrieval QA System for the Supreme Court Rulings of the Mendoza province, Argentina
+# JurisGPT: an AI-powered Retrieval QA System for the Supreme Court Rulings of the province of Mendoza, Argentina
 
 The project aims to develop an MVP retrieval question-answering system that utilizes the rulings of the Supreme Court of Justice of the province of Mendoza as a document corpus. Users will have the capability to ask questions based on the court's jurisprudence. The system employs several technologies such as LangChain, LLM Vicuna 13B, and Chroma DB, among others, and will be deployed on the AWS cloud. This comprehensive solution will enable efficient and accurate retrieval of information from the court's rulings, enhancing access to legal knowledge.
