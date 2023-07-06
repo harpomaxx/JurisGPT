@@ -26,14 +26,29 @@ from langchain.vectorstores import Chroma
 from langchain.document_loaders import UnstructuredFileLoader
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain.text_splitter import NLTKTextSplitter
+import langchain
+import yaml
 import os
 import sys
+
+langchain.debug = True
 
 # Define the path to the project folder
 PROJECT_PATH = os.path.join(os.getenv('HOME'), 'JurisGPT')
 
-# Change to the project folder using $HOME environment variable
+# Change to the project folder
 os.chdir(PROJECT_PATH)
+
+# open the config file and load the contents
+with open("config/config.yaml", "r") as f:
+    config_data = yaml.load(f, Loader=yaml.FullLoader)
+
+langchain_api_key = config_data['langchain']['api_key']
+
+os.environ["LANGCHAIN_TRACING_V2"] = "true"
+os.environ["LANGCHAIN_ENDPOINT"] = "https://api.langchain.plus"
+os.environ["LANGCHAIN_API_KEY"] = langchain_api_key
+os.environ["LANGCHAIN_SESSION"] = "jurisgpt"
 
 # Add the library folder path to the sys.path list
 sys.path.append(PROJECT_PATH + '/code/python/libraries')
@@ -68,9 +83,10 @@ db = Chroma.from_documents(docs_split, embedding_fnc)
 #db = Chroma(embedding_function=embedding_fnc, persist_directory="./data/argentina_es_db")
 
 #%% QUESTION
-# question = '¿Quiénes es el líder de Babasónicos?'
-question = '¿En qué año se fundó la banda Babasónicos?'
+question = '¿Quiénes es el líder de Babasónicos?'
+#question = '¿En qué año se fundó la banda Babasónicos?'
 # question = '¿Quiénes son los integrantes de Babasónicos?'
+# question = '¿Cuál es el sitio web de Babasónicos?'
 
 #%% QUERY SIMILAR CHUNKS
 docs_query = db.similarity_search(question, k=3)
@@ -80,11 +96,11 @@ context = '\n'.join([doc.page_content for doc in docs_query])
 
 #%% PROMPT
 # header_en = "### Assistant: I use the following context to answer the question. If I don't know the answer, I'll simply say that I don't know it, I won't try to invent an answer."
-header = "### Assistant: uso el siguiente contexto para responder la pregunta. Si no se la respuesta, solo diré que no la se, no trataré de inventar una respuesta."
+header = "### Assistant: uso el siguiente contexto para responder la pregunta en español. Si no se la respuesta, solo diré que no se la respuesta, no trataré de inventar una respuesta."
 prompt = ad.format_prompt(header, question, context)
 
 #%% LLM QUERY
-print ("Asking a question to LLM...")
+print ("Asking a question to the LLM...")
 
 start_time = ad.tic()
 response = tg.query_llm(prompt)
