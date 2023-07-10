@@ -2,7 +2,7 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain.chains.summarize import load_summarize_chain
 from langchain import PromptTemplate, LLMChain
-from langchain.document_loaders import UnstructuredODTLoader
+from langchain.document_loaders import UnstructuredPDFLoader, UnstructuredFileLoader
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains.mapreduce import MapReduceChain
 from langchain.prompts import PromptTemplate
@@ -16,9 +16,12 @@ langchain.debug = True
 
 # Define the path to the project folder
 PROJECT_PATH = os.path.join(os.getenv('HOME'), 'JurisGPT')
-
 # Change to the project folder using $HOME environment variable
 os.chdir(PROJECT_PATH)
+
+import sys
+sys.path.append('code/python/libraries')
+import jurisgpt_functions as ju
 
 # open the YAML file and load the contents
 with open("config/config.yaml", "r") as f:
@@ -38,49 +41,52 @@ llm = TextGen(model_url=model_url)
 #%% LOAD
 # load file
 # change to rawdata folder
-os.chdir("/home/rodralez/JurisGPT/rawdata/")
-loader = UnstructuredODTLoader("13-03850672-7 - Gonzalez Mario.odt")
-docs = loader.load()
+# loader = UnstructuredODTLoader("rawdata/fallos/13-03850672-7 - Gonzalez Mario.odt")
+loader = UnstructuredFileLoader("rawdata/laboral/10000003219.pdf")
+doc = loader.load()
+text_raw = doc[0].page_content
+text = text_raw.replace("(cid:0)", "")
+doc[0].page_content = text
+ju.save_text(text_raw, "text_raw.txt")
 
-#%% SPLIT
+#%% EXTRACT SECTIONS
+titles = ['ANTECEDENTES:', 'SOBRE LA', 'R E S U E L V E:']
+# titles = ['R E S U E L V E:']
 
-#%% SPLIT  
-# https://www.pinecone.io/learn/chunking-strategies/
-text_splitter = NLTKTextSplitter(chunk_size=1000, chunk_overlap=0)
-docs_split = text_splitter.split_documents(docs)
+sections = ju.extract_sections(text, titles)
 
-#%% EMBEDDEDING
-# Define embedding function
-embedding_fnc = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+ju.save_text(sections[0], "tmp.txt")
 
-#%% CHROMA
-# Non-persistent Chroma
-vectordb = Chroma.from_documents(docs_split, embedding_fnc)
+# Create a new instance of UnstructuredFileLoader
+loader = UnstructuredFileLoader("tmp.txt")
+# Load the file and assign it to the doc variable
+doc = loader.load()
 
 #%% QUICK START
-# from langchain.docstore.document import Document
-# docs = [Document(page_content=t) for t in docs_split[:3]]
 
 from langchain.chains.summarize import load_summarize_chain
 
-prompt_template = """Escribe un resumen en español del siguiente texto:
+prompt_template = """
+your tasks are:
+1. translate this text into english
+2. summarize the text
+3. translate the summary into spanish
 
+text:
 {text}
 
-RESUMEN CONSISO EN ESPAÑOL:"""
+Summarized text in Spanish:
+"""
+
+# PROMPT = PromptTemplate(template=prompt_template, input_variables=["text"])
+# chain = load_summarize_chain(llm, chain_type="stuff", prompt=PROMPT)
+# chain.run(docs)
 
 PROMPT = PromptTemplate(template=prompt_template, input_variables=["text"])
-chain = load_summarize_chain(llm, chain_type="stuff", prompt=PROMPT)
-chain.run(docs)
+chain = load_summarize_chain(llm, chain_type="map_reduce", verbose=True, return_intermediate_steps=True, map_prompt=PROMPT, combine_prompt=PROMPT)
+chain({"input_documents": doc}, return_only_outputs=True)
 
-#%% 
-template = """
-A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.
-### Human: {question}
+# chain = load_summarize_chain(llm, chain_type="refine", return_intermediate_steps=True)
+# chain({"input_documents": doc_split}, return_only_outputs=True)
 
-### Assistant:"""
-
-prompt = PromptTemplate(template=template, input_variables=["question"])
-
-
-text_splitter = CharacterTextSplitter()
+dump_break = 0
