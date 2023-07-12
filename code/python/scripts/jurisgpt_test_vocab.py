@@ -16,7 +16,7 @@ tokenizer = LlamaTokenizer.from_pretrained(MODEL_LLM)
 #%% LOAD
 
 # load directory
-loader = DirectoryLoader("./rawdata/fallos", glob="**/*.odt")
+loader = DirectoryLoader("./rawdata/laboral", glob="**/*.pdf")
 documents = loader.load()
 
 #%% EXTRACT TEXT
@@ -35,5 +35,11 @@ for token in tokens:
         unsupported_words.append(token)
 
 print ("unsupported_words: " , unsupported_words)
+
+#%% WORD COUNT 
+word_count = len(texts.split())
+print("Number of words in all documents:", word_count)
+print("Avr. number of words:", word_count/len(documents))
+
 
 dumb = 0

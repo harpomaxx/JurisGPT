@@ -38,7 +38,29 @@ def extract_sections(text, titles):
     return sections
 
 #%%
-def simple_prompt(instruction, question):
+def prompt_summary(instruction, text):
+    """
+    Formats a Spanish prompt by combining a summarization instruction and text.
+
+    Args:
+        instruction (str): The instruction to be included in the prompt.
+        text (str): The text to be included in the prompt.
+
+    Returns:
+        str: The formatted prompt.
+
+    Example:
+        >>> format_prompt('Summarize the following text.', 'Paris is the capital of France')
+    """
+    text = f"""
+### Humano: {instruction}
+Texto:
+{text}
+### Resumen:"""
+    return text.strip()
+
+#%%
+def prompt_simple(instruction, question):
     """
     Formats a prompt by combining a instruction and a question.
 
@@ -61,9 +83,9 @@ def simple_prompt(instruction, question):
 
 
 #%%
-def format_prompt(instruction, question, context):
+def prompt_context(instruction, question, context):
     """
-    Formats a prompt by combining a instruction, context, and question.
+    Formats a Spanish prompt by combining a instruction, context, and question.
 
     Args:
         instruction (str): The instruction to be included in the prompt.

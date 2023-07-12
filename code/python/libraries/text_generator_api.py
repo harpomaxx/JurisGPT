@@ -10,7 +10,7 @@ URI = f'http://{HOST}/api/v1/generate'
 def query_llm(prompt):
     request = {
         'prompt': prompt,
-        'max_new_tokens': 200,
+        'max_new_tokens': 1000,
 
         # Generation params. If 'preset' is set to different than 'None', the values
         # in presets/preset-name.yaml are used instead of the individual numbers.
