@@ -1,5 +1,27 @@
- El fallo del Tribunal de la Suprema Corte de Justicia de Mendoza en el caso N° 13-04422907-7/1 se centra en la admisión de un recurso extraordinario provincial interpuesto por Dante Ramón Farconesi contra la sentencia dictada en los autos n° 159.313. La sección "Sobre la primera cuestión" establece que el recurso fue admitido formalmente y que la defensa presentó su articulación. La sección "Sobre la segunda cuestión" analiza la admisión de la articulación interpuesta por Farconesi y la decisión de la corte de que el Provincial Court had jurisdiction to hear the case and that the lower court's decision was erroneous.
+ Resumen de la Sentencia de la Corte Suprema de Mendoza
 
-La Tercera Cuestión se refiere a la admisión de la articulación presentada por la defensa, y la Sala decidió admitirla considerando que no hay lesión alguna a su derecho de defensa en juicio. La sección "resuelve" establece el dictamen final del Tribunal, que el Provincial Government de Mendoza es responsable del accidente que ocurrió a Farconesi y ordena que se pague la indemnización correspondiente. Además, se impone el costo de la apelación y se sobresee el caso.
+La sentencia en cuestión es un caso de invalidez de una póliza de seguro entre el Gobierno de Mendoza y Provincia ART S.A. La corte suprema de Mendoza decidió declarar invalida la póliza debido a la contradicción entre las declaraciones del demandante y los hechos administrativos.
 
-La razón detrás de la decisión final es que el Tribunal encontró que el Provincial Court had jurisdiction to hear the case y que la decisión del lower court fue erronea. Además, la Sala decidió no apartarse de la postura jurisprudencial sentada en casos análogos, lo que permitió la admisión de la articulación de la defensa. En resumen, el fallo del Tribunal se basó en la normativa aplicable y en la postura jurisprudencial sentada para tomar la decisión final en favor de la defensa.
+Antecedentes
+
+El demandante, un funcionario del Casino de Mendoza, había trabajado en funciones administrativas desde 2007. Sin embargo, desde octubre de 2010, se encontraba en licencia por enfermedad. Además, el demandante había retomado sus tareas habituales después de la cirugía pulmonar en 2009, pero luego afirmó haber gozado de licencia laboral.
+
+Sobre la primera cuestión
+
+La corte encontró que la fecha de inicio de la licencia laboral del demandante fue el 17 de marzo de 2011, lo que contradicta la fecha de la póliza entre el Gobierno de Mendoza y Provincia ART S.A., celebrada en 2013.
+
+Sobre la segunda cuestión
+
+La corte evaluó la fecha de inicio de la licencia laboral del demandante y encontró que, aunque el demandante afirmó haber retomado sus tareas habituales después de la cirugía pulmonar en 2009, las declaraciones del demandante son contradictorias y no se puede determinar con certeza la fecha exacta en que retomó sus funciones.
+
+Tercera cuestión
+
+La corte decidió rechazar la primera manifestación invalidante presentada por el demandante debido al carácter inculpable de las patologías y no por no existir cobertura en el período pertinente.
+
+Resuelve
+
+La corte suprema de Mendoza decidió declarar invalida la póliza de seguro entre el Gobierno de Mendoza y Provincia ART S.A. debido a la contradicción entre las declaraciones del demandante y los hechos administrativos. La corte consideró que el demandante no retomó sus tareas habituales luego de la cirugía pulmonar, sino que gozó de licencia laboral. Además, la corte determinó que la resolución de grado es contradictoria con la información resultante de las actuaciones administrativas.
+
+Conclusión
+
+En resumen, la corte suprema de Mendoza decidió declarar invalida la póliza de seguro entre el Gobierno de Mendoza y Provincia ART S.A. debido a la contradicción entre las declaraciones del demandante y los hechos administrativos. La corte consideró que el demandante no retomó sus tareas habituales luego de la cirugía pulmonar, sino que gozó de licencia laboral. Esta sentencia puede ser útil en futura jurisprudencia y es importante mencionar el nombre del ministro de la corte que votó a favor de la decisión final.
