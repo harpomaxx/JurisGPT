@@ -13,7 +13,7 @@ import os
 
 
 ## CONFIGURATION
-
+#
 dataset_path = "/home/harpo/git-repos/JurisGPT/rawdata/laboral/sumariosbigdb/sumariosdb.json" # in JSON
 model_path = "/home/harpo/CEPH/LLM-models/Llama-2-7b-chat-hf"
 tokenizer_path = "/home/harpo/CEPH/LLM-models//Llama-2-7b-chat-hf"
