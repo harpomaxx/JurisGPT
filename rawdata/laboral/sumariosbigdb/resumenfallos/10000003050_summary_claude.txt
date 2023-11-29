@@ -1,0 +1,11 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal previo, indicando que Provincia A.R.T. S.A. interpuso un recurso extraordinario provincial contra una sentencia que la condenaba a pagar una indemnización por incapacidad laboral a Walter Daniel Fara. 
+
+**Sobre la Primera Cuestión**: Analiza la procedencia del recurso extraordinario interpuesto por Provincia A.R.T. S.A. El Dr. Adaro concluye que el recurso prospera parcialmente, revocando la condena al pago de la indemnización (que ya había sido abonada) pero confirmando la imposición de intereses moratorios y punitorios.
+
+**Sobre la Segunda Cuestión**: En base a lo resuelto en la cuestión anterior, el Dr. Adaro reformula la parte resolutiva de la sentencia, condenando a Provincia A.R.T. S.A. al pago de $615.086 más intereses hasta el efectivo pago.
+
+**Sobre la Tercera Cuestión**: Resuelve imponer las costas del recurso extraordinario en el orden causado.
+
+**Sentencia**: Transcribe la parte resolutiva de la sentencia definitiva dictada por la Corte, admitiendo parcialmente el recurso interpuesto y condenando en los términos expuestos en las cuestiones anteriores.

@@ -1,0 +1,13 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe los hechos previos relevantes del caso, incluyendo la demanda inicial del actor Francisco Lorenzo Guiñazu contra La Caja A.R.T. S.A., la citación a terceros realizada por la demandada, y la sentencia de primera instancia que rechazó la demanda.
+
+**Sobre la Primera Cuestión - Voto del Dr. Adaro**: Analiza la procedencia del recurso extraordinario interpuesto por el actor, concluyendo en su rechazo. Examina conceptos como primera manifestación invalidante, definitividad de la incapacidad y sujeto obligado a la cobertura según la Ley de Riesgos del Trabajo. 
+
+**Sobre la Primera Cuestión - Voto del Dr. Valerio en disidencia**: Presenta un análisis diferente, considerando que existió incongruencia en la sentencia de grado al resolver sobre puntos no controvertidos y omitir aspectos que sí lo estaban. Vota por hacer lugar al recurso extraordinario.
+
+**Sobre la Segunda Cuestión**: Revoca la sentencia apelada y reenvía la causa al tribunal de origen para que dicte nueva sentencia ajustada a lo resuelto sobre la primera cuestión.
+
+**Sobre la Tercera Cuestión**: Impone las costas a la parte recurrida vencida. 
+
+**Sentencia**: Resuelve en definitiva admitir el recurso extraordinario, reenviar la causa al tribunal de origen, imponer costas a la recurrida y regular honorarios.

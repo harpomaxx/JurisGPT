@@ -1,0 +1,15 @@
+ Basado en el fallo judicial presentado, se pueden identificar las siguientes secciones principales:
+
+- Antecedentes: Describe el trámite procesal previo, indicando que la empresa Green S.A. interpuso recurso extraordinario provincial contra una sentencia de la Cámara del Trabajo que hizo lugar a una demanda laboral. 
+
+- Primera cuestión: Analiza la procedencia formal del recurso extraordinario. El voto mayoritario (Dr. Palermo) considera que el recurso es inadmisible porque la recurrente no rebatió adecuadamente los fundamentos de la sentencia recurrida.
+
+- Segunda cuestión: Al rechazarse el recurso en la cuestión anterior, se omite pronunciamiento sobre el fondo del asunto.
+
+- Tercera cuestión: Impone las costas a la parte recurrente vencida. 
+
+- Voto en disidencia parcial (Dr. Adaro): Coincide en rechazar el recurso pero por otros fundamentos. Considera que la sentencia recurrida violó normas de orden público al disponer un pago directo al trabajador, sin respetar las normas concursales. Propone modificar la forma de pago, ajustándola a la Ley de Concursos y Quiebras.
+
+- Voto ampliatorio (Dr. Valerio): Adhiere al rechazo del recurso y amplía fundamentos sobre la protección del crédito laboral en el marco de un concurso preventivo del empleador. 
+
+- Sentencia: Resuelve rechazar el recurso extraordinario, con costas a la recurrente. Fija honorarios de los letrados intervinientes.

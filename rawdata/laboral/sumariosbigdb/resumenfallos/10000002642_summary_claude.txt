@@ -1,0 +1,11 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal previo. El Dr. Rodolfo Martín Barón interpuso recursos extraordinarios de inconstitucionalidad y casación contra una resolución de la Cámara Primera del Trabajo que rechazó un incidente de prescripción. Los recursos fueron admitidos formalmente y se corrió traslado a la contraparte. El Procurador General aconsejó la admisión de los recursos. 
+
+**Primera Cuestión**: Analiza la procedencia de los recursos interpuestos. Concluye que los recursos no pueden prosperar porque la resolución impugnada no cumple con el requisito de definitividad y fue consentida por el recurrente. Además, señala que la norma cuestionada (art. 108 del Código Procesal Laboral) es constitucional.
+
+**Segunda Cuestión**: Omite pronunciamiento al haberse resuelto negativamente la cuestión anterior.
+
+**Tercera Cuestión**: Impone las costas al recurrente vencido.
+
+**Sentencia**: Rechaza los recursos extraordinarios interpuestos y confirma la resolución apelada. Impone costas y regula honorarios.

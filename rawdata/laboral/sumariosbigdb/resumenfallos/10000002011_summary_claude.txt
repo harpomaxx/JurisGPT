@@ -1,0 +1,13 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal de la causa, desde la interposición de los recursos extraordinarios por la demandada hasta la admisión formal de los mismos y el dictamen del Procurador General. 
+
+**Cuestiones**: Plantea las cuestiones a resolver por la Corte: 1) Procedencia de los recursos; 2) Solución que corresponde en su caso; 3) Costas. 
+
+**Voto del Dr. Adaro sobre la Primera Cuestión**: Analiza los fundamentos del recurso de inconstitucionalidad, concluyendo en su rechazo por falta de demostración de la arbitrariedad alegada y por no haber acreditado la relevancia constitucional del agravio. También rechaza el recurso de casación por no cumplir con los requisitos formales exigidos.
+
+**Voto del Dr. Adaro sobre la Segunda Cuestión**: Omite pronunciamiento al haberse resuelto negativamente la procedencia de los recursos en la cuestión anterior.
+
+**Voto del Dr. Adaro sobre la Tercera Cuestión**: Impone las costas a la parte recurrente vencida.
+
+**Sentencia**: Rechaza los recursos interpuestos, impone costas a la recurrente y difiere la regulación de honorarios.

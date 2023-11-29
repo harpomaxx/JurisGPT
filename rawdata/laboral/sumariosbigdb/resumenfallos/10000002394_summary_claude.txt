@@ -1,0 +1,11 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe brevemente el trámite procesal previo. La empresa Supercanal S.A. interpuso recurso extraordinario de inconstitucionalidad y casación contra una resolución que rechazó su planteo de prescripción. 
+
+**Primera cuestión - Procedencia del recurso**: El Dr. Salvini analiza la procedencia formal del recurso y concluye que debe prosperar.
+
+**Segunda cuestión - Solución que corresponde**: El Dr. Salvini vota por hacer lugar al recurso, declarar la inconstitucionalidad del art. 108 del CPL, admitir la prescripción y rechazar la demanda. El Dr. Adaro vota en disidencia por rechazar el recurso y confirmar la sentencia. El Dr. Nanclares adhiere al voto del Dr. Salvini.
+
+**Tercera cuestión - Costas**: Los tres ministros votan por imponer las costas a la parte recurrida vencida. 
+
+**Sentencia**: Resuelve hacer lugar al recurso, declarar la inconstitucionalidad del art. 108 del CPL en el caso concreto, admitir la prescripción, rechazar la demanda y imponer costas a la parte vencida.

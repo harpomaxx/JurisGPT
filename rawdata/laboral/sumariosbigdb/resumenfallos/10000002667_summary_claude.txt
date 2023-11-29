@@ -1,0 +1,11 @@
+ Basado en la sentencia de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+Antecedentes: Describe el trámite procesal previo, indicando que Provincia A.R.T. S.A. interpuso un Recurso Extraordinario Provincial contra una sentencia de primera instancia que le resultó adversa. 
+
+Voto del Dr. Adaro (Primera Cuestión): Analiza la procedencia formal del recurso interpuesto por Provincia A.R.T. S.A. Concluye que el recurso es procedente.
+
+Voto del Dr. Adaro (Segunda Cuestión): Revoca parcialmente la sentencia de primera instancia, fijando un nuevo monto condenatorio contra Provincia A.R.T. S.A., por aplicación del precedente "Vizzoti" de la CSJN.
+
+Voto del Dr. Adaro (Tercera Cuestión): Impone las costas de la instancia extraordinaria a la parte recurrida (vencida). 
+
+Parte Resolutiva: Resuelve formalmente en base a los votos, admitiendo el recurso, modificando el monto de condena, imponiendo costas y regulando honorarios.

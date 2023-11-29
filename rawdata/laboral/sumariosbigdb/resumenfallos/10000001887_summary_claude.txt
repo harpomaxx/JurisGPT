@@ -1,0 +1,11 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales:
+
+1. Autos y Vistos: Presenta los datos del expediente y menciona que se llama a autos para acuerdo. 
+
+2. Considerando: Analiza el recurso de casación interpuesto por el actor contra la resolución que se declaró incompetente por razón del territorio. Señala que la Cámara consideró el domicilio del actor y que la ART demandada no tiene domicilio en Mendoza. 
+
+3. Fundamentos del cambio de criterio: Explica las razones por las cuales la Corte decide cambiar el criterio sostenido previamente sobre la competencia territorial en casos similares. Entre los fundamentos menciona: la adhesión a las Reglas de Brasilia sobre acceso a la justicia de personas vulnerables; la constatación de prácticas abusivas y dispendio jurisdiccional; la imposibilidad de prórroga de la competencia laboral; la necesidad de un contacto razonable entre el caso y el foro; el concepto de domicilio de las sociedades según la ley; precedentes de la CSJN y otros tribunales; la posibilidad de declarar la incompetencia de oficio; la congestión de la Primera Circunscripción Judicial; entre otros.
+
+4. Resuelve: En base a los fundamentos expuestos, desestima el recurso de casación, declara competente a la Cámara Segunda del Trabajo de la Tercera Circunscripción Judicial y dispone el envío del expediente a ese tribunal. Exime de costas al recurrente. 
+
+5. Firmas: Incluye las firmas de los jueces integrantes de la Sala II de la Suprema Corte de Justicia de Mendoza.

@@ -1,0 +1,11 @@
+ Basado en la sentencia de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe brevemente el caso, indicando que el actor Luis Gerardo Villadeamigo demandó a Mapfre A.R.T. S.A. por una enfermedad laboral. La Cámara de Trabajo hizo lugar a la demanda y condenó a Mapfre a pagar una indemnización. Mapfre apeló esta decisión ante la Corte Suprema. 
+
+**Primera cuestión - Procedencia del recurso**: La Corte analiza si es procedente el recurso de casación interpuesto por Mapfre (ahora Galeno A.R.T.). Se admite parcialmente el recurso.
+
+**Segunda cuestión - Solución**: La Corte resuelve casar parcialmente la sentencia apelada, estableciendo que se confirma la condena a Mapfre a pagar la indemnización determinada en primera instancia, pero se modifica la fecha de inicio del cómputo de intereses y la tasa aplicable. 
+
+**Tercera cuestión - Costas**: Se imponen las costas del recurso a la parte recurrente (Mapfre) por resultar vencida.
+
+**Sentencia**: La Corte emite su decisión final, casando parcialmente la sentencia de Cámara en los términos expuestos en la segunda cuestión.

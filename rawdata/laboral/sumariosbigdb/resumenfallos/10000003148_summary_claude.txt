@@ -1,0 +1,25 @@
+ Basado en la sentencia provista, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes:** 
+
+- Se describe el trámite procesal previo. La trabajadora Laura Julieta Cufre Gazal interpuso una acción de reinstalación laboral contra su empleadora Mediterránea Clean SRL, invocando el DNU 329/2020. El tribunal de primera instancia hizo lugar a la acción y ordenó la reinstalación. 
+
+- La demandada apeló esa decisión ante la Cámara de Apelaciones, que rechazó el planteo. Luego la demandada interpuso recurso extraordinario provincial ante la Corte Suprema de Justicia de Mendoza.
+
+**Primera cuestión - Procedencia del recurso:**
+
+- El ministro Valerio analiza si el recurso extraordinario es procedente. Concluye que no tiene el requisito de definitividad necesario, ya que la demandada no agotó todas las instancias ordinarias al no haber interpuesto previamente recurso de reposición contra la decisión de Cámara.
+
+**Segunda cuestión - Solución del caso:**
+
+- El ministro Valerio revoca la decisión de Cámara por entender que la normativa de emergencia invocada por la actora (DNU 329/2020) no le es aplicable, dado que su contratación fue posterior a la entrada en vigencia de dicha norma. 
+
+- El ministro Adaro coincide en la solución, pero por otros fundamentos relacionados con la naturaleza del vínculo laboral (contrato a plazo fijo).
+
+**Tercera cuestión - Costas:**
+
+- Ambos ministros coinciden en imponer las costas en el orden causado atento a la novedad y complejidad del tema.
+
+**Fallo:**
+
+- Se hace lugar al recurso extraordinario, se revoca la decisión de Cámara y se rechaza la acción de reinstalación interpuesta por la actora.

@@ -1,0 +1,13 @@
+ Basado en la sentencia presentada, se pueden identificar las siguientes secciones principales:
+
+Antecedentes: Describe el trámite procesal previo, indicando que se interpusieron recursos extraordinarios de inconstitucionalidad y casación contra una sentencia de Cámara. Se rechazó el recurso de casación y se admitió formalmente el de inconstitucionalidad. 
+
+Cuestiones: Plantea las cuestiones a resolver por la Corte: 1) Procedencia del recurso interpuesto, 2) Solución que corresponde en su caso y 3) Pronunciamiento sobre costas.
+
+Voto Dr. Adaro: Analiza el recurso de inconstitucionalidad, considerando que no prospera porque no se verifican los supuestos de arbitrariedad alegados. Entiende que no hubo preterición de pruebas y que la valoración de la Cámara no fue arbitraria. Propone rechazar el recurso y costas a los actores.
+
+Voto Dr. Böhm (en disidencia): Considera que existe solidaridad entre YPF y HDS por la subcontratación de servicios relacionados con la actividad de YPF. Entiende que se omitió analizar pruebas decisivas, por lo que corresponde admitir el recurso, revocar la sentencia en lo pertinente y condenar solidariamente a YPF. 
+
+Voto Dr. Salvini: Adhiere al voto del Dr. Böhm.
+
+Sentencia: En base a la mayoría de votos (Dr. Böhm y Dr. Salvini), se resuelve admitir el recurso de inconstitucionalidad, anular parcialmente la sentencia de Cámara y condenar solidariamente a YPF. Se imponen las costas a la recurrida vencida.

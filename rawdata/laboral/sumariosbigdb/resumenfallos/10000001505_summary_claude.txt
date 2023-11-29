@@ -1,0 +1,21 @@
+ Basado en el fallo judicial presentado, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal previo de la causa. Indica que los actores interpusieron recursos extraordinarios de inconstitucionalidad y casación contra la sentencia de Cámara que rechazó su demanda. Se admitieron los recursos y se corrió traslado a la contraria, quien solicitó su rechazo. El Procurador General aconsejó hacer lugar al recurso de inconstitucionalidad. 
+
+**Cuestiones a resolver**: El Tribunal se plantea 3 cuestiones: 1) ¿Son procedentes los recursos interpuestos? 2) En su caso, qué solución corresponde? 3) Pronunciamiento sobre costas.
+
+**Voto del Dr. Adaro sobre la 1ra cuestión**: Analiza ambos recursos. Respecto al de inconstitucionalidad, considera que el vicio señalado (juez preopinante distinto al sorteado) es insuficiente para anular la sentencia. En cuanto al recurso de casación, entiende que la Cámara interpretó correctamente que el crimen pasional sufrido por la trabajadora no está cubierto como accidente de trabajo in itinere según la LRT. 
+
+**Voto del Dr. Salvini sobre la 1ra cuestión**: Adhiere en un todo al voto del Dr. Adaro.
+
+**Voto del Dr. Böhm sobre la 1ra cuestión**: Coincide con el Dr. Adaro respecto al recurso de inconstitucionalidad, pero disiente en cuanto al recurso de casación. Considera que el crimen pasional ocurrido a la trabajadora en su trayecto habitual al trabajo sí está cubierto como accidente in itinere según la LRT.
+
+**Voto del Dr. Adaro sobre la 2da cuestión**: Omite pronunciarse al quedar en minoría su opinión.
+
+**Voto del Dr. Adaro sobre la 3ra cuestión**: Propone imponer las costas a la recurrente por haber resultado vencida.
+
+**Voto del Dr. Salvini sobre la 3ra cuestión**: Adhiere al voto del Dr. Adaro. 
+
+**Voto del Dr. Böhm sobre la 3ra cuestión**: Omite pronunciarse por quedar su voto en minoría.
+
+**Sentencia**: En definitiva, la Corte resuelve por mayoría rechazar ambos recursos y imponer las costas a la recurrente vencida.

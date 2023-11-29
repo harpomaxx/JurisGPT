@@ -1,0 +1,13 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+Antecedentes: Describe el trámite procesal de la causa desde la interposición del recurso extraordinario provincial por parte de Alberto Daniel Zuloaga, la admisión formal del recurso, la contestación de la contraria, el dictamen del Procurador General, y la convocatoria a acuerdo para dictar sentencia. 
+
+Cuestiones: La Corte se plantea 3 cuestiones a resolver: 1) ¿Es procedente el recurso interpuesto? 2) En su caso, ¿qué solución corresponde? 3) Pronunciamiento sobre costas.
+
+Voto del Dr. Adaro sobre la Primera Cuestión: Analiza los agravios del recurrente y concluye que el recurso debe prosperar dado que la sentencia de Cámara incurrió en arbitrariedad al obviar la ausencia de acreditación del procedimiento de crisis de empresa previo al despido, siendo este un requisito esencial al invocarse la causal de falta o disminución de trabajo. 
+
+Voto del Dr. Adaro sobre la Segunda Cuestión: Dispone anular el fallo de Cámara y reenviar la causa para que se dicte nuevo pronunciamiento considerando que el despido fue injustificado.
+
+Voto del Dr. Adaro sobre la Tercera Cuestión: Impone las costas a la parte recurrida vencida.
+
+Sentencia: Resuelve hacer lugar al recurso extraordinario, anular la sentencia de Cámara, reenviar para nuevo fallo y imponer costas a la recurrida.

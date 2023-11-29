@@ -1,0 +1,11 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal de la causa. El actor Marcelo Flores interpuso un recurso extraordinario contra una sentencia de la Cámara del Trabajo que rechazó su demanda por accidente laboral. Se admite el recurso, la demandada contesta el traslado y el Procurador dictamina por el rechazo. 
+
+**Voto del Dr. Adaro**: Analiza la procedencia del recurso extraordinario interpuesto. Concluye que el recurso no cumple con los requisitos formales y no demuestra de modo claro los errores que le atribuye a la sentencia recurrida. Opina por el rechazo del recurso por no estar debidamente fundado.
+
+**Voto sobre la segunda cuestión**: Al rechazarse el recurso en la cuestión anterior, corresponde omitir pronunciamiento sobre el fondo del asunto. 
+
+**Voto sobre la tercera cuestión**: Impone las costas al recurrente por resultar vencido.
+
+**Sentencia**: En base a los votos precedentes, resuelve rechazar el recurso extraordinario interpuesto y imponer las costas al recurrente vencido.

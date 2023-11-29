@@ -1,0 +1,15 @@
+ Basado en el fallo judicial presentado, se pueden identificar las siguientes secciones principales:
+
+- Antecedentes: Describe el trasfondo del caso, indicando que Ramón Aravena interpuso un Recurso Extraordinario Provincial contra una sentencia que había hecho lugar a la defensa de prescripción presentada por la ART La Segunda S.A. en una demanda por accidente laboral. 
+
+- Cuestiones a resolver: Plantea las tres cuestiones que el Tribunal debe analizar: 1) Si el recurso es procedente, 2) En caso afirmativo, qué solución corresponde, 3) Pronunciamiento sobre costas.
+
+- Voto del Dr. Adaro sobre la primera cuestión: Expone los fundamentos por los cuales considera que el recurso debe desestimarse, al no demostrarse arbitrariedad en la sentencia recurrida que declaró prescripta la acción.
+
+- Voto del Dr. Valerio en disidencia sobre la primera cuestión: Disiente con la postura del Dr. Adaro, entendiendo que el razonamiento de la sentencia recurrida fue erróneo y arbitrario al analizar la prescripción sin determinar antes la configuración del reagravamiento reclamado. 
+
+- Voto del Dr. Adaro sobre la segunda cuestión: Propone anular la sentencia recurrida y reenviar la causa al tribunal de origen para que dicte nueva sentencia conforme a este pronunciamiento.
+
+- Voto del Dr. Adaro sobre la tercera cuestión: Propone imponer las costas a la parte recurrida vencida.
+
+- Sentencia: Resuelve hacer lugar al recurso extraordinario, anular la sentencia recurrida, reenviar la causa al tribunal de origen y condenar en costas a la parte recurrida.

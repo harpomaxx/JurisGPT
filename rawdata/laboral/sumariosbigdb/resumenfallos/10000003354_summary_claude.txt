@@ -1,0 +1,15 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales:
+
+Antecedentes: Describe el trasfondo del caso, indicando que ambas partes (el Ente Provincial Regulador Eléctrico y Daniel Esteban Fernández) interpusieron recursos extraordinarios provinciales contra la sentencia de Cámara que hizo lugar parcialmente a la demanda de Fernández. 
+
+Se detallan los agravios de cada parte contra dicha sentencia.
+
+Primera cuestión: Analiza la procedencia de los recursos interpuestos. Se hace foco en el recurso de la parte demandada (Ente Regulador) por ser el que define el resultado del otro recurso (de Fernández). 
+
+Se concluye que le asiste razón al Ente en su queja sobre la extemporaneidad del despido, revocando lo resuelto por el juez de grado. Se admite así este recurso.
+
+Segunda cuestión: En base al resultado de la cuestión anterior, se anula parcialmente la sentencia de grado y se rechaza la demanda de Fernández. 
+
+Tercera cuestión: Impone las costas de la instancia extraordinaria por su orden respecto al recurso del Ente Regulador, y a cargo de Fernández en su recurso por haber resultado vencido.
+
+Sentencia: Resuelve en definitiva admitir el recurso del Ente Regulador, rechazar el de Fernández, anular parcialmente la sentencia de grado, rechazar la demanda y regular honorarios.

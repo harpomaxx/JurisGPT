@@ -1,0 +1,11 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+Antecedentes: Describe el trámite procesal previo. El Sr. Molina interpuso un recurso extraordinario de inconstitucionalidad contra una sentencia de la Cámara Quinta del Trabajo que le otorgó una indemnización por accidente laboral. El recurso fue admitido y se dio traslado a la demandada. El Procurador General se pronunció a favor de la admisión del recurso.  
+
+Primera Cuestión - Procedencia: Analiza si el recurso es procedente. Concluye que es procedente porque la sentencia incurrió en arbitrariedad al omitir pronunciarse y considerar la prueba pericial psiquiátrica, apartándose de las constancias de la causa.
+
+Segunda Cuestión - Solución: Revoca parcialmente la sentencia de grado. Considera la pericial psiquiátrica omitida y condena a la demandada a pagar una indemnización mayor, de $421.159. 
+
+Tercera Cuestión - Costas: Impone las costas de la instancia a la parte demandada por resultar vencida.
+
+En síntesis, se admitió el recurso por arbitrariedad en la omisión de prueba relevante y se modificó el monto de la condena considerando dicha prueba.

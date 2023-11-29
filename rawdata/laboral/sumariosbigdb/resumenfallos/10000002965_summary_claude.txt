@@ -1,0 +1,11 @@
+ Basado en la sentencia de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal previo. La Cámara Tercera del Trabajo hizo lugar a la demanda de Luis Nicanor Cortez contra Provincia A.R.T. S.A. por incapacidad física y psicológica derivada de su trabajo. Provincia A.R.T. S.A. interpuso recurso extraordinario provincial contra esa decisión. 
+
+**Primera Cuestión - Procedencia del recurso**: El Dr. Adaro analiza los argumentos del recurso y concluye que debe rechazarse, ya que la valoración de la prueba realizada por el tribunal de grado no resulta arbitraria ni absurda.
+
+**Segunda Cuestión - Solución**: Al rechazarse el recurso en la cuestión anterior, los Dres. Valerio y Palermo adhieren a omitir pronunciamiento sobre este punto.
+
+**Tercera Cuestión - Costas**: El Dr. Adaro propone imponer las costas del recurso a la parte recurrente por resultar vencida.
+
+**Sentencia**: En base al acuerdo precedente, la Corte Suprema resuelve rechazar el recurso extraordinario, imponer las costas a la recurrente y regular honorarios.

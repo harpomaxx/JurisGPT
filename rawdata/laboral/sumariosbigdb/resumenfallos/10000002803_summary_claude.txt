@@ -1,0 +1,13 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal previo. El actor Mario Luciano Andrade interpuso recurso extraordinario provincial contra la sentencia de la Cámara que admitió parcialmente su demanda por daño moral contra Dolphin S.A. por despido discriminatorio. 
+
+**Cuestiones a resolver**: Plantea las tres cuestiones que debe resolver la Corte: 1) Procedencia del recurso; 2) Solución que corresponde; 3) Costas.
+
+**Voto del Dr. Palermo sobre la Primera Cuestión**: Analiza la procedencia del recurso extraordinario. Concluye que es procedente porque la Cámara fijó un monto insuficiente por daño moral sin fundamentación adecuada.
+
+**Voto del Dr. Palermo sobre la Segunda Cuestión**: Resuelve hacer lugar al recurso, modificar el monto del daño moral fijándolo en $25.000 y establecer cómo se calcularán los intereses. Dispone que se practique liquidación y se devuelvan las actuaciones a la Cámara. 
+
+**Voto del Dr. Palermo sobre la Tercera Cuestión**: Impone las costas a la parte recurrida vencida.
+
+**Sentencia**: Resuelve hacer lugar al recurso extraordinario, modificar el monto de la condena por daño moral, imponer costas a la recurrida y regular honorarios.

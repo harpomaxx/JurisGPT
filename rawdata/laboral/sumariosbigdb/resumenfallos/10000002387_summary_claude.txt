@@ -1,0 +1,9 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Se describen los hechos del caso, la demanda inicial del trabajador Ángel Orlando Torres contra la ART La Caja por diferencias en la indemnización por accidente laboral, la sentencia de primera instancia que hizo lugar parcialmente a la demanda, y la interposición de recurso extraordinario de casación por parte de la ART.
+
+**Primera Cuestión - Procedencia del recurso**: Se analiza la procedencia formal del recurso interpuesto por la ART. Se rechaza el agravio sobre inconstitucionalidad de la tarifa del art. 14 de la LRT por no corresponder con lo resuelto en primera instancia, pero se hace lugar al agravio sobre errónea aplicación de la ley 26.773 por violar el principio de irretroactividad, de acuerdo a doctrina sentada en fallo plenario de la Corte provincial. 
+
+**Segunda Cuestión - Solución**: Se declara la inconstitucionalidad parcial de la LRT, específicamente los arts. 12 (cálculo del ingreso base mensual) y 14 (tope indemnizatorio). Se recalcula la indemnización tomando en cuenta los salarios actualizados probados y sin tope, condenando a la ART a pagar al trabajador la diferencia respecto de lo ya abonado.
+
+**Tercera Cuestión - Costas**: Se imponen las costas en el orden causado atento la complejidad de la cuestión debatida.

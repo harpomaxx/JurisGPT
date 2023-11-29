@@ -1,0 +1,11 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones:
+
+**Antecedentes**: Describe el trámite procesal previo. Mapfre A.R.T. S.A. interpuso recursos extraordinarios de inconstitucionalidad y casación contra una sentencia de Cámara que la condenó a pagar una indemnización por accidente laboral. Se admitieron los recursos y se corrió traslado a la contraria. El Procurador General dictaminó por el rechazo del recurso de inconstitucionalidad.  
+
+**Sobre la Primera Cuestión**: Analiza la procedencia de los recursos interpuestos. La mayoría de la Sala (Valerio y Adaro) hace lugar al recurso de inconstitucionalidad porque considera que la declaración de inconstitucionalidad del artículo 12 de la Ley de Riesgos del Trabajo fue arbitraria. El juez Palermo disiente y rechaza el recurso, afirmando que la aplicación de ese artículo resultaba perjudicial para el actor.
+
+**Sobre la Segunda Cuestión**: Resuelve revocar parcialmente la sentencia de Cámara, fijando un nuevo monto indemnizatorio, al desestimar la declaración de inconstitucionalidad.
+
+**Sobre la Tercera Cuestión**: Impone las costas del recurso de inconstitucionalidad a la parte recurrida (vencida) y las del recurso de casación a la recurrente. 
+
+**Sentencia**: Consigna la parte resolutiva, haciendo lugar al recurso de inconstitucionalidad, revocando parcialmente la sentencia de Cámara, fijando un nuevo monto indemnizatorio, imponiendo costas y difiriendo la regulación de honorarios.

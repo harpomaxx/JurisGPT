@@ -1,0 +1,11 @@
+ Basado en el fallo de la Corte Suprema de Justicia de Mendoza, se pueden identificar las siguientes secciones principales:
+
+**Antecedentes**: Describe el trámite procesal de la causa. La actora Blaha interpone recurso de inconstitucionalidad contra una sentencia de la Cámara del Trabajo que le rechazó parte de la demanda. Se admite el recurso, se corre traslado a la demandada quien contesta, y el Procurador General aconseja admitirlo. 
+
+**Primera Cuestión**: Analiza la procedencia formal del recurso de inconstitucionalidad. El tribunal considera que el recurso es procedente porque la Cámara omitió valorar pruebas decisivas que demostrarían que la relación laboral entre las partes se inició en 1988 y no en 1992 como se estableció.
+
+**Segunda Cuestión**: Resuelve hacer lugar al recurso, modificar la sentencia apelada estableciendo que la relación laboral comenzó en 1988, y condenar al pago de las indemnizaciones especiales de la Ley de Empleo. Remite al tribunal de origen para que liquide los rubros admitidos.
+
+**Tercera Cuestión**: Impone las costas del recurso a la parte demandada vencida.
+
+**Sentencia**: Resuelve formalmente: 1) Admitir el recurso y modificar la sentencia apelada; 2) Imponer costas a la demandada; 3) Diferir regulación de honorarios; 4) Notificar.

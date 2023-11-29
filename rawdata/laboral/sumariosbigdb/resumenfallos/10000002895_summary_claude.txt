@@ -1,0 +1,11 @@
+ Basado en el fallo presentado, se pueden identificar las siguientes secciones principales y sus respectivos resúmenes:
+
+**Antecedentes**: Describe el trámite procesal previo a la sentencia. El trabajador Miguel Ángel Salatti demandó a Expreso Luján de Cuyo S.A. por despido. La Cámara admitió la demanda e incluyó en la indemnización rubros no remunerativos (viáticos). La empresa apeló ante la Corte Suprema alegando que dichos rubros no debían computarse. 
+
+**Voto del Dr. Adaro**: Admite parcialmente el recurso. Considera que los viáticos previstos en el convenio colectivo no tienen naturaleza remuneratoria y no deben incluirse en la base de cálculo de la indemnización. Rechaza el agravio sobre la multa.
+
+**Voto del Dr. Valerio**: Rechaza el recurso en su totalidad. Entiende que los viáticos tienen naturaleza remuneratoria y deben computarse en la indemnización, en base a jurisprudencia de la CSJN que privilegia la protección del salario. 
+
+**Voto ampliatorio del Dr. Palermo**: Adhiere al voto del Dr. Valerio. Refuerza que por las características de la prestación laboral, los viáticos pagados no tenían como fin el reembolso de gastos, sino que integraban la remuneración.
+
+**Sentencia**: En base a la mayoría de votos, se rechaza el recurso interpuesto por la empresa y se confirma la sentencia de Cámara. Se imponen las costas a la recurrente vencida.
