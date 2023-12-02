@@ -7,18 +7,18 @@ from sklearn.model_selection import train_test_split
 from pynvml import *
 import pandas as pd
 import random
-import mlflow
+#import mlflow
 import os
 #os.environ["WANDB_DISABLED"] = "true"
 
 
 ## CONFIGURATION
 #
-dataset_path = "/home/harpo/git-repos/JurisGPT/rawdata/laboral/sumariosbigdb/sumariosdb.json" # in JSON
-model_path = "/home/harpo/CEPH/LLM-models/Llama-2-7b-chat-hf"
-tokenizer_path = "/home/harpo/CEPH/LLM-models//Llama-2-7b-chat-hf"
-trained_model_checkpoints_save_path = "/home/harpo/CEPH/LLM-models/checkpoints/"
-trained_model_save_path = "/home/harpo/CEPH/LLM-models/Llama-2-7b-hf-juris"
+dataset_path = "/root/JurisGPT/rawdata/laboral/sumariosbigdb/sumariosdb.json" # in JSON
+model_path = "meta-llama/Llama-2-13b-chat-hf"
+tokenizer_path = "meta-llama/Llama-2-13b-chat-hf"
+trained_model_checkpoints_save_path = "/root/checkpoints/"
+trained_model_save_path = "/root/LLM-models/Llama-2-13b-hf-jurisv2"
 #mlflow_experiment = "/llama-2-7b-guanaco"
 
 #mlflow.set_tracking_uri("http://147.32.83.60")
@@ -98,16 +98,16 @@ training_arguments = TrainingArguments(
 
 # ### Load Dataset
 print("[] load dataset.")
-#train_dataset = load_dataset("lucasmccabe-lmi/CodeAlpaca-20k", split="train")
+train_dataset = load_dataset("harpomaxx/jurisgpt", split="train")
 #train_dataset = load_dataset("timdettmers/openassistant-guanaco", split="train")
-#val_dataset = load_dataset("timdettmers/openassistant-guanaco", split="test")
+val_dataset = load_dataset("harpomaxx/jurisgpt", split="test")
 
 
-dataset = pd.read_json(dataset_path)
-train_dataset, val_dataset = train_test_split(dataset, test_size=0.20, random_state=42)
+#dataset = pd.read_json(dataset_path)
+#train_dataset, val_dataset = train_test_split(dataset, test_size=0.20, random_state=42)
 
-train_dataset = Dataset.from_pandas(train_dataset)
-val_dataset = Dataset.from_pandas(val_dataset)
+#train_dataset = Dataset.from_pandas(train_dataset)
+#val_dataset = Dataset.from_pandas(val_dataset)
 
 # ### Format data for training
 
@@ -116,13 +116,33 @@ def formatting_prompts_func(example):
     for i in range(len(example['texto'])):
       
         #text = f"Voces: {example['voces'][i]}\nSumario: {example['texto'][i]}"
-        text = f"Este es un ejemplo de un sumario de la corte: {example['texto'][i]}</s>"
+        text =f"""<s>[INST]<<SYS>>
+        Think after answer. Your answer should be in spanish. Not in english.
+        <</SYS>> 
+        Eres un oficial perito de la corte suprema de Mendoza en Argentina. A partir del siguiente resumen de una sentencia de la corte :
+        ```
+        {example['resumen'][i]}
+        ```
+        Debes escribir un sumario en donde se expliquen las causas detras de la decision final de la sentencia. 
+        Escribir el sumario de la corte en no mas de 700 palabras.
+        Favor de no mencionar NUNCA:
+            1. Los nombres de las secciones como ser: primera cuestion, segunda cuestion o tercera cuestion.
+            2. Los nombres de los casos.
+            3. Los nombres de los ministros de la corte.
+            4. Las fechas y la ubicacion de la corte.
+            5. La palabra corte
+            Cuando escribas el sumario tener en cuenta que este puede ayudar en futura jurisprudencia. 
+            En caso de disidencia indicar el nombre del  ministro de la corte. 
         
+        Escribe tu respuesta en un español correcto.
+        [/INST]
+        {example['texto'][i]}</s>
+        """
         output_texts.append(text)
     return output_texts
 
-instruction_template = "### Human:"
-response_template = "### Assistant:"
+instruction_template = "[INST]"
+response_template = "[/INST]"
 
 collator = DataCollatorForCompletionOnlyLM(instruction_template=instruction_template, 
                                            response_template=response_template, 
